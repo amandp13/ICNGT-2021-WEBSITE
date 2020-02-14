@@ -1,0 +1,19 @@
+.nonloop-block-3 owl-carousel{
+    margin: 3px;
+  }
+  #owl-demo .item img{
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  .marquee img{
+    width:250px;
+    height:200px;
+  }
+  #site-name
+  {
+    font-size: 1.25em;
+    font-weight: 400;
+    padding-top: 0;
+  }
+  {#site-name,#site-description,#site-conftheme{clear:none;}}@media screen and (min-width:992px){#site-name,#site-description,#site-conftheme{clear:both;}}@media screen and (min-width:1200px){#site-name,#site-description,#site-conftheme{clear:none;}}#site-name{font-size:1.25em;font-weight:400;padding-top:0;}@media screen and (min-width:768px){#site-name{padding-top:0;}}@media screen and (min-width:992px){#site-name{padding-top:0;}}@media screen and (min-width:1200px){#site-name{padding-top:0;}
